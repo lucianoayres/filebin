@@ -1457,7 +1457,7 @@ id,Source,Target,Type,weight,book,weight_inv
 1455,Walder-Frey-(son-of-Merrett),Wex-Pyke,Undirected,4,2.0,0.25
 1456,Weasel,Weese,Undirected,6,2.0,16.666.666.666.666.600
 1457,Woth,Yoren,Undirected,4,2.0,0.25
-1458,Palla,Ramsay-Snow,Undirected,3,,3.333.333.333.333.330
+1458,Palla,Ramsay-Snow,Undirected,3,2.0,3.333.333.333.333.330
 1459,Addam-Marbrand,Gyles-Rosby,Undirected,3,3.0,3.333.333.333.333.330
 1460,Addam-Marbrand,Jaime-Lannister,Undirected,3,3.0,3.333.333.333.333.330
 1461,Addam-Marbrand,Jalabhar-Xho,Undirected,3,3.0,3.333.333.333.333.330
